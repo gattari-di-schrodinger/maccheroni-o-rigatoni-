@@ -1,0 +1,84 @@
+Introduzione:
+
+1 Fine dell'esperienza: 
+misurare  massa, altezza, raggio, volume, densità di un rigatone di pasta su un campione di 20 rigatoni, utilizzando strumenti
+di uso quotidiano (righello, bilancia da cucina, contenitore graduato).
+Lo scopo dell'esperimento è anche di mostrare il rapporto di proporzionalità inversa tra massa e volume per il calcolo 
+della densità attraverso la relazione d= m/V.
+
+
+
+2 Materiale e strumenti di misura:
+
+Campione:
+20 rigatoni di pasta, approssimabili a dei cilindri cavi, non deformabili a pressione e temperatura ambienti.
+
+Strumenti:
+
+
+grandezza          strumento             sensibilità    portata     divisione    
+altezza, diametro   righello               1 mm         20 cm       200 mm
+massa:             bilancia da cucina       1 g
+Volume:            bicchiere tarato,acqua   1 ml
+densità:                                    1 g/mm^3
+
+
+
+
+
+3 Strategia della misura e formule utilizzate:
+
+Raggio e altezza: i rigatoni sono stati approssimati a dei cilindri cavi privi di irregolarità. Sono state, infatti, trascurate le deformazioni delle facce esterne
+causate dalle righettature e delle circonferenze dell'area principale. Le misure riportate nel grafico(specifica) corrispondono a quelle di un solido ideale.
+
+L'incertezza relativa risulta :
+sigma(m)/m = 1/32
+
+
+Massa: Sono stati misurati i 20 rigatoni con una singola pesata.
+La bilancia,infatti, non ha una sensibilità sufficiente a registrare una significativa sollecitazione per misure dell'ordine inferiore al grammo.
+La misura, quindi, corrisponde al valore medio:
+x= somma di tutte le misure / numero di misure effettuate.
+
+
+Volume: La formula di un cilindro ideale è :
+       
+V= pigreco* d^2* h /4  dove d=diamentro; h= altezza.
+
+Per ottenere una misura diretta i 20 campioni sono stati immersi in un contenitore graduato contenente circa 35 ml di acqua. E' stata osservata la variazione 
+di quota di quest'ultima, sfruttando la legge di Stevino:
+P= gdh
+dove g è l'accelerazione di gravità =9.82 m/s^2; d è la densità del fluido (in questo caso dell'acqua) = 997 kg(m^3); h è il livello dell'acqua; 
+P è la pressione(in questo caso atmosferica)= 1.01 * 10^5 Pa.
+
+La propagazione dell'incertezza relativa risulta:
+
+sigma(v1)- sigma(v2) = sigma(m)* sqrt(2)* sigma(V)/V
+
+Densità: La formula di un cilindro ideale è:
+ 
+D= m/pigreco* d^2 * h/4  dove m è la massa; d è il diametro; h è l'altezza del clindro.
+
+La misura è stata effettuata in maniera indiretta utilizzando i valori della massa media e del volume medio dei 20 rigatoni riportati nella tabella (specifica).
+
+La propagazione dell'incertezza relativa risulta essere:
+
+sigma(D)/D= sqrt(incertezza rel massa al quadrato + incertezza relativa volume al quadrato
+
+Accorgimenti:
+
+- Per il valore del diametro è stato trascurato lo spessore interno del rigatone.  
+
+- Il bicchiere è stato calibrato con lo stesso righello utilizzato per la misura del diametro e dell'altezza. Successivamente è stata convertita 
+la variazione di quota dell'acqua espressa in mm nella variazione di volume d'acqua spostato espressa in ml.
+
+
+Conclusione:
+Le misure effettuate sul volume permettono di stimare un'incertezza relativa  del ...%  che non risulta essere in accordo
+ con l'incertezza relativa della massa, del diametro e dell'altezza (riportare i valori).
+La ragione è dovuta al fatto di aver utilizzato uno strumento di misurazione capace di registrare sollecitazioni estremamente vicine alla variazione
+totale del volume dei rigatoni. L'errore potrebbe essere corretto misurando il volume d'acqua spostato da un numero superiore di rigatoni o utilizzando
+dei contenitori graduati con una sensibilità, ad esempio, di 1 ml.
+Per la densità, avendo effettuato una misura indiretta utilizzando i valori medi della massa e del volume, l'incertezza relativa risulta del ...% e sembra
+in accordo con il valore dell'incertezza relativa del volume ma è minore: il rapporto di proporzionalità inversa risulta essere soddisfatto. 
+
